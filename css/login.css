@@ -52,8 +52,39 @@ h2 {
     overflow: hidden;
 }
 
-.login_left_image img{
+.login_left_image img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+}
+
+.login_right {
+    background: #FFF;
+    padding: 75px;
+}
+
+.btn {
+    border-radius: 16px;
+    background: #28E17D;
+}
+
+.loginbtn {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 5px;
+}
+
+.input-bg {
+    border-radius: 8px;
+    background: #DDD;
+    height: 45px;
+}
+
+.login_container{
+    height: 75vh;
+    margin-top: 20px;
 }
