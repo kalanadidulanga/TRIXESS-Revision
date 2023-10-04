@@ -41,3 +41,19 @@ h2 {
     font-weight: 800;
     line-height: normal;
 }
+
+.login_left {
+    background: #272121;
+}
+
+.login_left_image {
+    width: 272px;
+    height: 272px;
+    overflow: hidden;
+}
+
+.login_left_image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
